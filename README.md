@@ -1,2 +1,3 @@
 # Final ML project Covid19
-
+Different Machine learning model were develop for covid. The Scikit-learn libraries were used to train the different models and analyze the data for the regression analysis. The Data extracted was clean by using Python Pandas, numpy, seaborn. The results of the predictions were plot by using Python Matplotlib. Two predictions were analyze by using the infection and recovered rate to predict the death rate in U.S.A, Colombia and Brazil and the period of time to predict the numbers of infections.
+Besides this data series were implemented to create a countries classification by death per millio
